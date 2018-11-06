@@ -57,7 +57,7 @@ Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />
 Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />
 
 `@hint`
-Context '"<b> <img src=# onerror=alert(1); />
+Context '"<b> <img src=# onerror=alert(1); /> a
 
 `@pre_exercise_code`
 ```{python}
@@ -71,7 +71,7 @@ Context '"<b> 123
 
 `@solution`
 ```{python}
-Context '"<b> 123
+Context '"<b> 123 
 ```
 
 `@sct`
