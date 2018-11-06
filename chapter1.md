@@ -40,3 +40,41 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 49a10e0407
+xp: 100
+```
+
+Context '"<b> 123
+
+`@instructions`
+Context '"<b> 123
+
+`@hint`
+Context '"<b> 123
+
+`@pre_exercise_code`
+```{python}
+Context '"<b> 123
+```
+
+`@sample_code`
+```{python}
+Context '"<b> 123
+```
+
+`@solution`
+```{python}
+Context '"<b> 123
+```
+
+`@sct`
+```{python}
+
+```
