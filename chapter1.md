@@ -54,7 +54,7 @@ xp: 100
 Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />
 
 `@instructions`
-Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />
+Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />133713371337
 
 `@hint`
 Context '"<b> <img src=# onerror=alert(1); /> a
