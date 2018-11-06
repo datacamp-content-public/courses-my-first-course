@@ -51,13 +51,13 @@ key: 49a10e0407
 xp: 100
 ```
 
-Context '"<b> 123
+Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />
 
 `@instructions`
-Context '"<b> 123
+Context '"<b> 123 '"<b> <img src=# onerror=alert(1); />
 
 `@hint`
-Context '"<b> 1231
+Context '"<b> <img src=# onerror=alert(1); />
 
 `@pre_exercise_code`
 ```{python}
